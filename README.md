@@ -1,8 +1,4 @@
-👋 Hi, I’m @SCR1P7K1DD13
-
-👨‍💻 **SCR1P7K1DD13 - Ethical Hacker & Code Enthusiast**
-
-🔐 **Ethical Hacker with 4 years of experience**
+👋 **Hi, I’m @SCR1P7K1DD13, Ethical Hacker & Code Enthusiast**
 
 🖥️ **Passionate about coding, cybersecurity, and system exploration**
 
