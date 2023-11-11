@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCR1P7K1DD13
+👋 Hi, I’m @SCR1P7K1DD13
 
 👨‍💻 **SCR1P7K1DD13 - Ethical Hacker & Code Enthusiast**
 
